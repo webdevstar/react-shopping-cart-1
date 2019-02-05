@@ -6,10 +6,6 @@ Simple React Shopping Cart without using Redux
 
 ![React Shopping Cart Preview](https://res.cloudinary.com/sivadass/image/upload/v1494752103/gifs/react-shopping-cart.gif)
 
-## Live Demo
-
-[https://sivadass.github.io/react-shopping-cart/](https://sivadass.github.io/react-shopping-cart/)
-
 ## Setup
 
 Goto the project folder and install required dependencies:
@@ -32,7 +28,9 @@ For production build:
 npm run build
 ```
 
-### Buy me a Coffee
+## Licence
 
-If you like to support this project, you can use the paypal link below:
-[![Buy Me a Coffee](https://res.cloudinary.com/sivadass/image/upload/v1535827506/icons/buy-me-a-coffee.png)](https://www.paypal.me/nsivadass)
+<p align="center"><img src="https://avatars0.githubusercontent.com/u/47046948?s=400&u=36182c0337c7199921a6d149eaf33bb77c12a1a9&v=4" width="50" height="50"/></p>
+<p align="center">
+<sub>A little project by <a href="http://www.jeffersonribeiro.com/">Maksim Rabtsevich</a></sub>
+</p>
